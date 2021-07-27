@@ -2,7 +2,7 @@
 <h3 align="center">Upcoming Software Developer</h3>
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="400" height="400" />
+<img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="300" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazy2code15&label=Profile%20views&color=0e75b6&style=flat" alt="crazy2code15" /> </p>
