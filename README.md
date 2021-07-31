@@ -29,7 +29,7 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=crazy2code15&show_icons=true&locale=en" alt="crazy2code15"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazy2code15&show_icons=true&locale=en&layout=compact" alt="crazy2code15"/> &nbsp;</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy2code15&show_icons=true&locale=en" alt="crazy2code15"/> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazy2code15&show_icons=true&locale=en&layout=compact" alt="crazy2code15"/></p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazy2code15" alt="crazy2code15" /></a></p>
