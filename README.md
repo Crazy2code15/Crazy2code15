@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratibha Singh</h1>
-<h3 align="center">Upcoming Software Developer</h3>
+<h3 align="center">Dreamer</h3>
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="250" height="200" />
