@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pratibha Singh</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="35" />, I'm Pratibha Singh</h1>
 <h3 align="center">Dreamer</h3>
 
 <p align="center">
