@@ -14,6 +14,6 @@
 <a href="https://www.facebook.com/profile.php?id=100009332563884" target="blank"><img align="center" src="https://www.iconninja.com/files/245/45/195/facebook-media-social-like-network-fb-icon.svg" alt="singhpratibha15/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnlduw91r681JciJHL41B0w" target="blank"><img align="center" src="http://www.vectorico.com/download/social_media/youtube-icon.png" alt="singhpratibha15/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/instaclicks15/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" alt="singhpratibha15/" height="30" width="40" /></a>
-<a href="https://twitter.com/2016871cab3c4ae" target="blank"><img align="center" src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png" alt="singhpratibha15/" height="30" width="40" /></a>
+<a href="https://twitter.com/crazy2code15" target="blank"><img align="center" src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png" alt="singhpratibha15/" height="30" width="40" /></a>
 <a href="https://medium.com/@singhpratibha433" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_256332.png" alt="singhpratibha15/" height="30" width="40" /></a>
 </p>
