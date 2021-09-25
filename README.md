@@ -3,7 +3,7 @@
 <h3 align="center">Dreamer</h3>
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="250" height="250" />
+<img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="250" height="200" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
