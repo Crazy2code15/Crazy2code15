@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="35" />, I'm Pratibha Singh</h1>
-<h3 align="center">Dreamer</h3>
+
+<p align="center"> I'm a passionate, self-taught person🎓. Willing to tackle genuine world 🌍 issues and assist people in utilizing innovation that I appreciate 🤩. I have an immense interest in automating things up and contributing to open source.</p>
+
+<h3 align="center"> </h3>
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="250" height="200" />
@@ -17,3 +20,13 @@
 <a href="https://twitter.com/crazy2code15" target="blank"><img align="center" src="http://icons.iconarchive.com/icons/iynque/ios7-style/1024/Twitter-icon.png" alt="singhpratibha15/" height="30" width="40" /></a>
 <a href="https://medium.com/@singhpratibha433" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_256332.png" alt="singhpratibha15/" height="30" width="40" /></a>
 </p>
+
+<h2> </h2>
+<ul align="center">
+  🛠 🚀 👨🏻‍💻 💬 📫 
+  </ul>
+  
+  <h2> </h2>
+  <ul align="center">
+  💻 
+  </ul>
