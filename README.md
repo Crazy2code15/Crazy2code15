@@ -34,6 +34,8 @@
 
 - 📫 How to reach me **singhpratibha433@gmail.com**
 
+- ⚡ Fun fact: I attract towards intelligent personality
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazy2code15&show_icons=true&locale=en&layout=compact" alt="crazy2code15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy2code15&show_icons=true&locale=en" alt="crazy2code15" /></p>
