@@ -25,7 +25,7 @@
 
 - 🔭 I’m looking for contribution on [Python Projects](https://github.com/Crazy2code15/Python-Projects)
 
-- 🌱 I’m currently learning **Mobile App Development using Python**
+- 🌱 I’m currently learning **Verilog**
 
 - 👨‍💻 Most of my work is available at [https://github.com/Crazy2code15](https://github.com/Crazy2code15)
 
