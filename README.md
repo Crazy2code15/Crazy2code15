@@ -23,8 +23,6 @@
 
 <p align="center"><a href="https://twitter.com/crazy2code15" target="blank"><img src="https://img.shields.io/twitter/follow/crazy2code15?logo=twitter&style=for-the-badge" alt="crazy2code15" /></a></p>
 
-- 🔭 I’m looking for contribution on [Python Projects](https://github.com/Crazy2code15/Python-Projects)
-
 - 🌱 I’m currently learning **Verilog**
 
 - 👨‍💻 Most of my work is available at [https://github.com/Crazy2code15](https://github.com/Crazy2code15)
