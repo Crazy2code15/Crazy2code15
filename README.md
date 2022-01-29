@@ -3,7 +3,7 @@
 <p align="center"> I'm a passionate, self-taught person🎓. Willing to tackle genuine world 🌍 issues and assist people in utilizing innovation that I appreciate 🤩. I have an immense interest in automating things up and contributing to open source.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazy2code15&label=Profile%20views&color=0e75b6&style=flat" alt="crazy2code15"/> </p>
-<h3 align="center"> SME of Computer Science in <a href="https://www.chegg.com/"> @Chegg </a></h3>
+<h3 align="center"> Network Expert in <a href="https://www.chegg.com/"> @Chegg </a></h3>
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" width="250" height="200" />
