@@ -23,15 +23,6 @@
 
 <p align="center"><a href="https://twitter.com/crazy2code15" target="blank"><img src="https://img.shields.io/twitter/follow/crazy2code15?logo=twitter&style=for-the-badge" alt="crazy2code15" /></a></p>
 
-- 🌱 I’m currently learning **Verilog**
-
-- 👨‍💻 Most of my work is available at [https://github.com/Crazy2code15](https://github.com/Crazy2code15)
-
-- 💬 Ask me about **Python, C, C++, DSA**
-
-- 📫 How to reach me **singhpratibha433@gmail.com**
-
-- ⚡ Fun fact: I attract towards intelligent personality
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazy2code15&show_icons=true&locale=en&layout=compact" alt="crazy2code15" /></p>
 
